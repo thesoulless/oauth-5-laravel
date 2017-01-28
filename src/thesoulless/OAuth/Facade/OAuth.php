@@ -1,4 +1,4 @@
-<?php namespace Artdarek\OAuth\Facade;
+<?php namespace thesoulless\OAuth\Facade;
 
 /**
  * @author     Dariusz Prząda <artdarek@gmail.com>
