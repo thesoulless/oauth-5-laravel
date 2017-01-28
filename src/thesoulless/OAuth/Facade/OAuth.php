@@ -1,7 +1,7 @@
 <?php namespace thesoulless\OAuth\Facade;
 
 /**
- * @author     Dariusz Prząda <thesoulless@gmail.com>
+ * @author     Dariusz Prząda <artdarek@gmail.com>
  * @copyright  Copyright (c) 2013
  * @license    http://www.opensource.org/licenses/mit-license.html MIT License
  */
