@@ -457,4 +457,3 @@ public function loginWithYahoo(Request $request)
 ### More usage examples:
 
 For examples go [here](https://github.com/Lusitanian/PHPoAuthLib/tree/master/examples)
-
